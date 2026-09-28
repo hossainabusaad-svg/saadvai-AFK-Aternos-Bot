@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "saad_vai-TZ51.aternos.me",
+    "ip": "saad_vai-TZ51.aternos.me:49370",
     "port": 49370,
     "version": "",
     "try-creative": false
